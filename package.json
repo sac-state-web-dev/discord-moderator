@@ -1,0 +1,26 @@
+{
+  "name": "discord-moderator",
+  "version": "1.0.0",
+  "description": "Chat bot that can act as a moderator/help service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sac-state-web-dev/discord-moderator.git"
+  },
+  "author": "Web Development Student Body",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sac-state-web-dev/discord-moderator/issues"
+  },
+  "homepage": "https://github.com/sac-state-web-dev/discord-moderator#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
