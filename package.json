@@ -18,7 +18,8 @@
   "homepage": "https://github.com/sac-state-web-dev/discord-moderator#readme",
   "dependencies": {
     "discord": "^0.8.2",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "nodemon": "^1.19.4"
   },
   "devDependencies": {
     "eslint": "^6.5.1"
